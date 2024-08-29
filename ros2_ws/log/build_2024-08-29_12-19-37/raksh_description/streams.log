@@ -1,0 +1,25 @@
+[0.979s] Invoking command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/build --no-deps symlink_data
+[1.325s] running develop
+[1.327s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.327s]   warnings.warn(
+[1.554s] running egg_info
+[1.554s] creating raksh_description.egg-info
+[1.555s] writing raksh_description.egg-info/PKG-INFO
+[1.555s] writing dependency_links to raksh_description.egg-info/dependency_links.txt
+[1.556s] writing entry points to raksh_description.egg-info/entry_points.txt
+[1.556s] writing requirements to raksh_description.egg-info/requires.txt
+[1.556s] writing top-level names to raksh_description.egg-info/top_level.txt
+[1.556s] writing manifest file 'raksh_description.egg-info/SOURCES.txt'
+[1.559s] reading manifest file 'raksh_description.egg-info/SOURCES.txt'
+[1.560s] writing manifest file 'raksh_description.egg-info/SOURCES.txt'
+[1.562s] running build_ext
+[1.563s] Creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages/raksh-description.egg-link (link to .)
+[1.564s] 
+[1.564s] Installed /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description
+[1.565s] running symlink_data
+[1.565s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/share/ament_index
+[1.565s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/share/ament_index/resource_index
+[1.565s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/share/ament_index/resource_index/packages
+[1.566s] symbolically linking /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/resource/raksh_description -> /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/share/ament_index/resource_index/packages
+[1.566s] symbolically linking /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/package.xml -> /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/share/raksh_description
+[1.604s] Invoked command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description' returned '0': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/build --no-deps symlink_data

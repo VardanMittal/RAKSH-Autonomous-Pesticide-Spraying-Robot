@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+disease_detection/__init__.py
+disease_detection.egg-info/PKG-INFO
+disease_detection.egg-info/SOURCES.txt
+disease_detection.egg-info/dependency_links.txt
+disease_detection.egg-info/entry_points.txt
+disease_detection.egg-info/requires.txt
+disease_detection.egg-info/top_level.txt
+disease_detection.egg-info/zip-safe
+resource/disease_detection

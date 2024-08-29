@@ -1,0 +1,9 @@
+source;share/disease_detection/hook/pythonpath.ps1
+source;share/disease_detection/hook/pythonpath.dsv
+source;share/disease_detection/hook/pythonpath.sh
+source;share/disease_detection/hook/ament_prefix_path.ps1
+source;share/disease_detection/hook/ament_prefix_path.dsv
+source;share/disease_detection/hook/ament_prefix_path.sh
+source;../../build/disease_detection/share/disease_detection/hook/pythonpath_develop.ps1
+source;../../build/disease_detection/share/disease_detection/hook/pythonpath_develop.dsv
+source;../../build/disease_detection/share/disease_detection/hook/pythonpath_develop.sh

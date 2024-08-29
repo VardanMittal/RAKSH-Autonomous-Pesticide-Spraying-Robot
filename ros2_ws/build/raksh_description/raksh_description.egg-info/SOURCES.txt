@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+raksh_description/__init__.py
+raksh_description.egg-info/PKG-INFO
+raksh_description.egg-info/SOURCES.txt
+raksh_description.egg-info/dependency_links.txt
+raksh_description.egg-info/entry_points.txt
+raksh_description.egg-info/requires.txt
+raksh_description.egg-info/top_level.txt
+raksh_description.egg-info/zip-safe
+resource/raksh_description

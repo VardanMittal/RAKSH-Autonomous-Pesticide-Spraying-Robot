@@ -1,0 +1,18 @@
+[1.357s] Invoking command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/build --no-deps symlink_data
+[1.772s] running develop
+[1.772s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.772s]   warnings.warn(
+[2.037s] running egg_info
+[2.037s] writing raksh_description.egg-info/PKG-INFO
+[2.037s] writing dependency_links to raksh_description.egg-info/dependency_links.txt
+[2.038s] writing entry points to raksh_description.egg-info/entry_points.txt
+[2.038s] writing requirements to raksh_description.egg-info/requires.txt
+[2.039s] writing top-level names to raksh_description.egg-info/top_level.txt
+[2.042s] reading manifest file 'raksh_description.egg-info/SOURCES.txt'
+[2.044s] writing manifest file 'raksh_description.egg-info/SOURCES.txt'
+[2.047s] running build_ext
+[2.047s] Creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages/raksh-description.egg-link (link to .)
+[2.051s] 
+[2.051s] Installed /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description
+[2.051s] running symlink_data
+[2.139s] Invoked command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description' returned '0': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/raksh_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/raksh_description/build --no-deps symlink_data
