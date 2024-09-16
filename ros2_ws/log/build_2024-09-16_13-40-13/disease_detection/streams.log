@@ -1,0 +1,18 @@
+[1.605s] Invoking command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/build --no-deps symlink_data
+[2.059s] running develop
+[2.059s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.059s]   warnings.warn(
+[2.391s] running egg_info
+[2.393s] writing disease_detection.egg-info/PKG-INFO
+[2.394s] writing dependency_links to disease_detection.egg-info/dependency_links.txt
+[2.397s] writing entry points to disease_detection.egg-info/entry_points.txt
+[2.397s] writing requirements to disease_detection.egg-info/requires.txt
+[2.398s] writing top-level names to disease_detection.egg-info/top_level.txt
+[2.400s] reading manifest file 'disease_detection.egg-info/SOURCES.txt'
+[2.401s] writing manifest file 'disease_detection.egg-info/SOURCES.txt'
+[2.404s] running build_ext
+[2.404s] Creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages/disease-detection.egg-link (link to .)
+[2.406s] 
+[2.406s] Installed /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection
+[2.406s] running symlink_data
+[2.486s] Invoked command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection' returned '0': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/build --no-deps symlink_data

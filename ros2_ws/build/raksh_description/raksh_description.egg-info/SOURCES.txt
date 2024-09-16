@@ -1,6 +1,7 @@
 package.xml
 setup.cfg
 setup.py
+launch/rviz_launch.py
 raksh_description/__init__.py
 raksh_description.egg-info/PKG-INFO
 raksh_description.egg-info/SOURCES.txt
@@ -10,3 +11,6 @@ raksh_description.egg-info/requires.txt
 raksh_description.egg-info/top_level.txt
 raksh_description.egg-info/zip-safe
 resource/raksh_description
+urdf/material.xacro
+urdf/raksh.urdf.xacro
+urdf/raksh_core.xacro
