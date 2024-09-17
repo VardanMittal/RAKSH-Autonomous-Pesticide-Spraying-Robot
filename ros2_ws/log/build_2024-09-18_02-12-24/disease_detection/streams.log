@@ -1,0 +1,25 @@
+[1.657s] Invoking command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/build --no-deps symlink_data
+[2.183s] running develop
+[2.183s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.183s]   warnings.warn(
+[2.588s] running egg_info
+[2.588s] creating disease_detection.egg-info
+[2.588s] writing disease_detection.egg-info/PKG-INFO
+[2.588s] writing dependency_links to disease_detection.egg-info/dependency_links.txt
+[2.589s] writing entry points to disease_detection.egg-info/entry_points.txt
+[2.590s] writing requirements to disease_detection.egg-info/requires.txt
+[2.590s] writing top-level names to disease_detection.egg-info/top_level.txt
+[2.590s] writing manifest file 'disease_detection.egg-info/SOURCES.txt'
+[2.593s] reading manifest file 'disease_detection.egg-info/SOURCES.txt'
+[2.594s] writing manifest file 'disease_detection.egg-info/SOURCES.txt'
+[2.597s] running build_ext
+[2.597s] Creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages/disease-detection.egg-link (link to .)
+[2.599s] 
+[2.599s] Installed /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection
+[2.599s] running symlink_data
+[2.599s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/share/ament_index
+[2.599s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/share/ament_index/resource_index
+[2.600s] creating /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/share/ament_index/resource_index/packages
+[2.600s] symbolically linking /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/resource/disease_detection -> /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/share/ament_index/resource_index/packages
+[2.601s] symbolically linking /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/package.xml -> /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/share/disease_detection
+[2.681s] Invoked command in '/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection' returned '0': PYTHONPATH=/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/install/disease_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/build/disease_detection/build --no-deps symlink_data

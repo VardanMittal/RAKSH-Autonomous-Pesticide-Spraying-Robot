@@ -17,7 +17,7 @@ def generate_launch_description():
     use_sim_time = LaunchConfiguration('use_sim_time')
 
     pkg_path = get_package_share_directory('raksh_description')
-    xacro_file = os.path.join(pkg_path, 'urdf', 'raksh.urdf')
+    xacro_file = os.path.join(pkg_path, 'urdf', 'raksh.urdf.xacro')
     if not os.path.exists(xacro_file):
         raise FileNotFoundError(f"Xacro file not found: {xacro_file}")
 
@@ -36,7 +36,7 @@ def generate_launch_description():
         executable='joint_state_publisher_gui',
         output='screen'
     )
-    rviz_config_path = "/home/vardan/Introduction-to-Robotics/Assignment1/ros2_wk/src/manipulator_simulation/config/rviz_simulation.rviz"
+    rviz_config_path = "/home/vardan/RAKSH-Autonomous-Pesticide-Spraying-Robot/ros2_ws/src/raksh_description/config/model_config.rviz"
     rviz_launcher = Node(
         package='rviz2',
         executable='rviz2',

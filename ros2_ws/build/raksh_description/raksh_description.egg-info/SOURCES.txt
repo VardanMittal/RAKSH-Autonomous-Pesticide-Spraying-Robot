@@ -13,4 +13,4 @@ raksh_description.egg-info/zip-safe
 resource/raksh_description
 urdf/material.xacro
 urdf/raksh.urdf.xacro
-urdf/raksh_core.xacro
+urdf/raksh_description.urdf.xacro
